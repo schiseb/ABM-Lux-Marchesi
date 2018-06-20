@@ -1,0 +1,3 @@
+public enum State {
+	FUNDAMENTALIST, OPTIMIST, PESSIMIST
+}
